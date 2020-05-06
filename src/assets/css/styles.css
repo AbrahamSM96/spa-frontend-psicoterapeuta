@@ -1,0 +1,57 @@
+.project-imgContainer {
+  padding-top: 56.25%;
+}
+
+.imgContainer {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-top: 100%;
+}
+
+.square {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+}
+
+.item {
+  padding: 1vw;
+  border-radius: 1vw;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.project {
+  width: 100%;
+  padding: 0;
+  overflow: hidden;
+}
+
+.liGroup__1 {
+  margin: 0 35% !important;
+}
+
+.liGroup__2 {
+  margin: 0 16% !important;
+}
+
+.cardDescription__top {
+  display: inline-flex;
+  width: 75%;
+}
+
+.cardDescription__top > p {
+  color: #ffffff !important;
+}
+
+.liGroup__author {
+  margin: 0 23%;
+}

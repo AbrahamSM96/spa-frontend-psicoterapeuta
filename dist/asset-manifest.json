@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4ea932b2.chunk.css",
+    "main.js": "/static/js/main.ecacc630.chunk.js",
+    "main.js.map": "/static/js/main.ecacc630.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.82704653.chunk.js": "/static/js/2.82704653.chunk.js",
+    "static/js/2.82704653.chunk.js.map": "/static/js/2.82704653.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.0869e493a286c4f26ed052735c4f4cf9.js": "/precache-manifest.0869e493a286c4f26ed052735c4f4cf9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.4ea932b2.chunk.css.map": "/static/css/main.4ea932b2.chunk.css.map",
+    "static/media/couple-min.jpg": "/static/media/couple-min.f81a6605.jpg",
+    "static/media/family22.jpg": "/static/media/family22.5686c693.jpg",
+    "static/media/head-social-min.png": "/static/media/head-social-min.4fae9d67.png",
+    "static/media/header1-min.jpg": "/static/media/header1-min.2fad9e3c.jpg",
+    "static/media/logomamacutfond-min.png": "/static/media/logomamacutfond-min.ae67aca1.png",
+    "static/media/mom1-min.jpg": "/static/media/mom1-min.72dcadd5.jpg",
+    "static/media/paper-kit.scss": "/static/media/nucleo-icons.f32ed5ad.eot"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "name": "landingmom",
+  "builds": [
+    {
+      "use": "@now/static-build",
+      "src": "package.json",
+      "config": {
+        "distDir": "build"
+      }
+    }
+  ],
+  "routes": [
+    {
+      "src": "(.*).js",
+      "dest": "/$1.js"
+    },
+    {
+      "src": "(.*).json",
+      "dest": "/$1.json"
+    },
+    {
+      "src": "(.*).png",
+      "dest": "/$1.png"
+    },
+    {
+      "src": "(.*).jpg",
+      "dest": "/$1.jpg"
+    },
+    {
+      "src": "(.*).css",
+      "dest": "/$1.css"
+    },
+    {
+      "src": "/.*",
+      "dest": "/index.html"
+    }
+  ]
+}
